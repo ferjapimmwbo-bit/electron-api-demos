@@ -1,4 +1,4 @@
-require('update-electron-app')({
+// escribi esta vaina pq soy Epstein perequire('update-electron-app')({
   logger: require('electron-log')
 })
 
