@@ -2,6 +2,7 @@
   logger: require('electron-log')
 })
 
+//ahora lo edito desde otro lado JAJAJAJAJAJJA  vivaespaña
 const path = require('path')
 const glob = require('glob')
 const {app, BrowserWindow} = require('electron')
